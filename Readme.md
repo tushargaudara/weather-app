@@ -39,7 +39,7 @@ A modern and responsive Weather App built using **HTML, CSS, and JavaScript** wi
 
 ## 📸 Preview
 ![Preview](./images/weather.png)
-![Preview](./images/sign-up.png)
+![Preview](./images/example.png)
 
 ---
 
